@@ -7,5 +7,8 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 ## Tutorials
 
 ## Bayesian Deep Learning
+[Uncertainty in Deep Learning (PhD Thesis) - Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 
 ## Online Courses
+
+[Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basics intuition on bayesian methods)
