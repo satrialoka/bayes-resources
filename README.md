@@ -8,7 +8,15 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 [Course Notes forBayesian Models for Machine Learning - Columbia University Fall 2016](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, detailed and the formula derivations is nice)
 
 ## Bayesian Deep Learning
+### Monte Carlo Dropout Related
 [Uncertainty in Deep Learning (PhD Thesis) - Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+
+[Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning - Yarin Gal](https://arxiv.org/pdf/1506.02142.pdf)
+
+note that this method is little controversial following [Ian Osband](https://iosband.github.io/) note on NIPS 2016 workshop. 
+more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/) 
+
+### Other Methods 
 
 ## Online Courses
 
