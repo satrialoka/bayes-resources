@@ -20,6 +20,11 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 ### Other Methods 
 
+## Gaussian Process
+[Gaussian Processes for Machine Learning - Carl Edward Rasmussen](http://www.gaussianprocess.org/gpml/)
+
+[Sparse GP using pseudo Input - Snelson & Ghahramani](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf)
+
 ## Online Courses
 
 [Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basic intuition on bayesian methods)
