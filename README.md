@@ -6,6 +6,7 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 ## Tutorials and Course Notes
 [Course Notes forBayesian Models for Machine Learning - Columbia University Fall 2016](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, detailed and the formula derivations is nice)
+
 [Variational Inference: A Review for Statisticians - Blei et al](https://arxiv.org/pdf/1601.00670.pdf)
 
 ## Bayesian Deep Learning
