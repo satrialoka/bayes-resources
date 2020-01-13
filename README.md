@@ -9,6 +9,8 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 [Variational Inference: A Review for Statisticians - Blei et al](https://arxiv.org/pdf/1601.00670.pdf)
 
+[Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
+
 ## Bayesian Deep Learning
 ### Monte Carlo Dropout Related
 [Uncertainty in Deep Learning (PhD Thesis) - Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
