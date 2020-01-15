@@ -20,7 +20,7 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 ### Other Methods 
 
 ## Gaussian Process
-[Gaussian Processes for Machine Learning - Carl Edward Rasmussen](http://www.gaussianprocess.org/gpml/). short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf)
+[Gaussian Processes for Machine Learning - Carl Edward Rasmussen](http://www.gaussianprocess.org/gpml/). short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf). video lecture : [link](http://videolectures.net/mlss03_rasmussen_gp/)
 
 [Sparse GP using pseudo Input - Snelson & Ghahramani](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf)
 
