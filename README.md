@@ -17,6 +17,9 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 [Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning - Yarin Gal](https://arxiv.org/pdf/1506.02142.pdf)
 
+note that this method is little controversial following [Ian Osband](https://iosband.github.io/) note on NIPS 2016 workshop. 
+more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/) 
+
 ### Other Methods 
 
 ## Gaussian Process and Bayesian Optimization
@@ -25,9 +28,6 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 [Sparse GP using pseudo Input - Snelson & Ghahramani](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf)
 
 [A Tutorial on Bayesian OptimizationPeter - I. Frazier](https://arxiv.org/pdf/1807.02811.pdf)
-
-note that this method is little controversial following [Ian Osband](https://iosband.github.io/) note on NIPS 2016 workshop. 
-more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/) 
 
 ## Online Courses
 
