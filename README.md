@@ -26,6 +26,9 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 [A Tutorial on Bayesian OptimizationPeter - I. Frazier](https://arxiv.org/pdf/1807.02811.pdf)
 
+note that this method is little controversial following [Ian Osband](https://iosband.github.io/) note on NIPS 2016 workshop. 
+more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/) 
+
 ## Online Courses
 
 [Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basic intuition on bayesian methods)
