@@ -29,6 +29,8 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 [A Tutorial on Bayesian OptimizationPeter - I. Frazier](https://arxiv.org/pdf/1807.02811.pdf)
 
+[Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) - more comprehensive than above
+
 ## Online Courses
 
 [Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basic intuition on bayesian methods)
