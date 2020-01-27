@@ -23,10 +23,15 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 ### Other Methods 
 
 ## Gaussian Process and Bayesian Optimization
+
+### Gaussian Process
 [Gaussian Processes for Machine Learning - Carl Edward Rasmussen](http://www.gaussianprocess.org/gpml/). short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf). video lecture : [link](http://videolectures.net/mlss03_rasmussen_gp/)
 
 [Sparse GP using pseudo Input - Snelson & Ghahramani](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf)
 
+[Scalable Gaussian process inferenceusing variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
+
+### Bayesian Optimization
 [A Tutorial on Bayesian OptimizationPeter - I. Frazier](https://arxiv.org/pdf/1807.02811.pdf)
 
 [Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) - more comprehensive than above
