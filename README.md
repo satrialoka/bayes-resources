@@ -2,23 +2,27 @@
 Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesian methods in machine learning
 
 ## Books
-[ Machine Learning A Probabilistic Perspective - Kevin P. Murphy ](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) (A good start to learn probabilistic machine learning, the first two introductory chapters are pretty good for starter)
+[ Machine Learning A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) (A good start to learn probabilistic machine learning, the first two introductory chapters are pretty good for starter) - Kevin P. Murphy 
 
 ## Tutorials and Course Notes
-[Course Notes forBayesian Models for Machine Learning - Columbia University Fall 2016](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice)
+[Course Notes forBayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
 
-[Variational Inference: A Review for Statisticians - Blei et al](https://arxiv.org/pdf/1601.00670.pdf)
+[Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
 
 [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
+
+[Deep Probabilistic Modelling with with Gaussian Processes
+
+](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
 
 ## Bayesian Deep Learning
 
 [Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) - Neal, Radford M.
 
 ### Monte Carlo Dropout Related
-[Uncertainty in Deep Learning (PhD Thesis) - Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+[Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) - Yarin Gal
 
-[Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning - Yarin Gal](https://arxiv.org/pdf/1506.02142.pdf)
+[Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf) - Yarin Gal
 
 note that this method is little controversial following [Ian Osband](https://iosband.github.io/) note on NIPS 2016 workshop. 
 more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/) 
@@ -28,16 +32,16 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 ## Gaussian Process and Bayesian Optimization
 
 ### Gaussian Process
-[Gaussian Processes for Machine Learning - Carl Edward Rasmussen](http://www.gaussianprocess.org/gpml/). short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf). video lecture : [link](http://videolectures.net/mlss03_rasmussen_gp/)
+[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen. short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf). video lecture : [link](http://videolectures.net/mlss03_rasmussen_gp/)
 
-[Sparse GP using pseudo Input - Snelson & Ghahramani](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf)
+[Sparse GP using pseudo Input](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf) - Snelson & Ghahramani
 
 [Scalable Gaussian process inference using variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
 
 ### Bayesian Optimization
-[A Tutorial on Bayesian OptimizationPeter - I. Frazier](https://arxiv.org/pdf/1807.02811.pdf)
+[A Tutorial on Bayesian OptimizationPeter](https://arxiv.org/pdf/1807.02811.pdf) - I. Frazier
 
-[Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) - more comprehensive than above
+[Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) Nando Defreitas . more comprehensive than above
 
 ## Online Courses
 
