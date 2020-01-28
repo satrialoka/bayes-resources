@@ -12,6 +12,9 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
 
 ## Bayesian Deep Learning
+
+[Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) - Neal, Radford M.
+
 ### Monte Carlo Dropout Related
 [Uncertainty in Deep Learning (PhD Thesis) - Yarin Gal](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
 
@@ -29,7 +32,7 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 [Sparse GP using pseudo Input - Snelson & Ghahramani](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf)
 
-[Scalable Gaussian process inferenceusing variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
+[Scalable Gaussian process inference using variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
 
 ### Bayesian Optimization
 [A Tutorial on Bayesian OptimizationPeter - I. Frazier](https://arxiv.org/pdf/1807.02811.pdf)
