@@ -11,6 +11,8 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
 
+[More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
+
 [Deep Probabilistic Modelling with with Gaussian Processes](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
 
 ## Bayesian Deep Learning
