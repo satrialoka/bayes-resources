@@ -8,6 +8,7 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 [Course Notes forBayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
 
 [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
+[Understanding ELBO](http://legacydirs.umiacs.umd.edu/~xyang35/files/understanding-variational-lower.pdf) - Xitong Yang
 
 [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
 
