@@ -40,6 +40,8 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 [Scalable Gaussian process inference using variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
 
+[A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - Görtler et al
+
 ### Bayesian Optimization
 [A Tutorial on Bayesian OptimizationPeter](https://arxiv.org/pdf/1807.02811.pdf) - I. Frazier
 
