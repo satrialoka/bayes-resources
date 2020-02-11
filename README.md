@@ -17,6 +17,8 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 [Deep Probabilistic Modelling with with Gaussian Processes](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
 
+[How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
+
 ## Bayesian Deep Learning
 
 [Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) - Neal, Radford M.
