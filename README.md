@@ -56,3 +56,6 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 ## Summer School
 
 [Deep|Bayes 2019](https://deepbayes.ru/) material and code: [github](https://github.com/bayesgroup/deepbayes-2019) video: [youtube](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
+
+## Blogs
+[betanalpha.github.io](https://betanalpha.github.io/writing/) - Michael Betancourt's blog
