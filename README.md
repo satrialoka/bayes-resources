@@ -2,31 +2,31 @@
 Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesian methods in machine learning
 
 ## Books
-[ Machine Learning A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) (A good start to learn probabilistic machine learning, the first two introductory chapters are pretty good for starter) - Kevin P. Murphy 
++ [ Machine Learning A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) (A good start to learn probabilistic machine learning, the first two introductory chapters are pretty good for starter) - Kevin P. Murphy 
 
 ## Tutorials and Course Notes
-[Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
++ [Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
 
-[Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
++ [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
 
-[Understanding ELBO](http://legacydirs.umiacs.umd.edu/~xyang35/files/understanding-variational-lower.pdf) - Xitong Yang
++ [Understanding ELBO](http://legacydirs.umiacs.umd.edu/~xyang35/files/understanding-variational-lower.pdf) - Xitong Yang
 
-[Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
++ [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
 
-[More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
++ [More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
 
-[Deep Probabilistic Modelling with with Gaussian Processes](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
++ [Deep Probabilistic Modelling with with Gaussian Processes](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
 
-[How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
++ [How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
 
 ## Bayesian Deep Learning
 
-[Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) - Neal, Radford M.
++ [Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) - Neal, Radford M.
 
 ### Monte Carlo Dropout Related
-[Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) - Yarin Gal
++ [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html) - Yarin Gal
 
-[Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf) - Yarin Gal
++ [Dropout as a Bayesian Approximation:Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf) - Yarin Gal
 
 note that this method is little controversial following [Ian Osband](https://iosband.github.io/) note on NIPS 2016 workshop. 
 more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/comments/7bm4b2/d_what_is_the_current_state_of_dropout_as/) 
