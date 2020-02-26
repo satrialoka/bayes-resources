@@ -11,15 +11,10 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 + [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
 
-+ [Understanding ELBO](http://legacydirs.umiacs.umd.edu/~xyang35/files/understanding-variational-lower.pdf) - Xitong Yang
-
 + [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
-
-+ [More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
 
 + [Deep Probabilistic Modelling with with Gaussian Processes](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
 
-+ [How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
 
 ## Bayesian Deep Learning
 
@@ -61,3 +56,9 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 ## Blogs
 + [betanalpha.github.io](https://betanalpha.github.io/writing/) - Michael Betancourt's blog
+
+## Notes etc
++ [Optimal Transport and Wassertein Distance](http://www.stat.cmu.edu/~larry/=sml/Opt.pdf) - Larry Wasserman 
++ [Understanding ELBO](http://legacydirs.umiacs.umd.edu/~xyang35/files/understanding-variational-lower.pdf) - Xitong Yang
++ [More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
++ [How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
