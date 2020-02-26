@@ -4,7 +4,7 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 ## Books
 + [ Machine Learning A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) (A good start to learn probabilistic machine learning, the first two introductory chapters are pretty good for starter) - Kevin P. Murphy 
 
-+ [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Richard McElreath | [course](https://github.com/rmcelreath/statrethinking_winter2019) [numpyro implementation](https://fehiepsi.github.io/rethinking-numpyro/) (seems good read later)
++ [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Richard McElreath | [course](https://github.com/rmcelreath/statrethinking_winter2019) | [numpyro implementation](https://fehiepsi.github.io/rethinking-numpyro/) | (seems good read later)
 
 ## Tutorials and Course Notes
 + [Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
