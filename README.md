@@ -36,26 +36,26 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 ## Gaussian Process and Bayesian Optimization
 
 ### Gaussian Process
-[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen. short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf). video lecture : [link](http://videolectures.net/mlss03_rasmussen_gp/)
++ [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen. short intro : [link](https://www.cs.ubc.ca/~hutter/EARG.shtml/earg/papers05/rasmussen_gps_in_ml.pdf). video lecture : [link](http://videolectures.net/mlss03_rasmussen_gp/)
 
-[Sparse GP using pseudo Input](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf) - Snelson & Ghahramani
++ [Sparse GP using pseudo Input](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf) - Snelson & Ghahramani
 
-[Scalable Gaussian process inference using variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
++ [Scalable Gaussian process inference using variational methods](http://mlg.eng.cam.ac.uk/matthews/thesis.pdf) - Matthews Thesis. (good resources to learn variational GP)
 
-[A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - Görtler et al
++ [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - Görtler et al
 
 ### Bayesian Optimization
-[A Tutorial on Bayesian OptimizationPeter](https://arxiv.org/pdf/1807.02811.pdf) - I. Frazier
++ [A Tutorial on Bayesian OptimizationPeter](https://arxiv.org/pdf/1807.02811.pdf) - I. Frazier
 
-[Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) Nando Defreitas . more comprehensive than above
++ [Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) Nando Defreitas . more comprehensive than above
 
 ## Online Courses
 
-[Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basic intuition on bayesian methods)
++ [Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basic intuition on bayesian methods)
 
 ## Summer School
 
-[Deep|Bayes 2019](https://deepbayes.ru/) material and code: [github](https://github.com/bayesgroup/deepbayes-2019) video: [youtube](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
++ [Deep|Bayes 2019](https://deepbayes.ru/) material and code: [github](https://github.com/bayesgroup/deepbayes-2019) video: [youtube](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
 
 ## Blogs
-[betanalpha.github.io](https://betanalpha.github.io/writing/) - Michael Betancourt's blog
++ [betanalpha.github.io](https://betanalpha.github.io/writing/) - Michael Betancourt's blog
