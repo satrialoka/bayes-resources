@@ -56,6 +56,7 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 ## Blogs
 + [betanalpha.github.io](https://betanalpha.github.io/writing/) - Michael Betancourt's blog
++ [Notes on machine learning](https://peterroelants.github.io/) - Peter Roelants's blog (have good notes on GP, Multivariate Gaussian and Multi-Armed bandit)
 
 ## Notes etc
 + [Optimal Transport and Wassertein Distance](http://www.stat.cmu.edu/~larry/=sml/Opt.pdf) - Larry Wasserman 
