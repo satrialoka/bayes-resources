@@ -62,6 +62,7 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 + [Optimal Transport and Wassertein Distance](http://www.stat.cmu.edu/~larry/=sml/Opt.pdf) - Larry Wasserman 
 + [Understanding ELBO](http://legacydirs.umiacs.umd.edu/~xyang35/files/understanding-variational-lower.pdf) - Xitong Yang
 + [More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
++ [Gaussian Densities](https://www.seas.upenn.edu/~sys502/extra_materials/MULTIVARIATE_NORMAL.pdf) - Tony E. Smith
 ### QnA
 + [How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
 + [Standardizing data for GP Regression](https://stats.stackexchange.com/questions/178245/should-we-standardize-the-data-while-doing-gaussian-process-regression)
