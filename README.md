@@ -64,6 +64,8 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 + [More on Multivariate Gaussians](http://cs229.stanford.edu/section/more_on_gaussians.pdf) - Chuong B. Do
 + [Gaussian Densities](https://www.seas.upenn.edu/~sys502/extra_materials/MULTIVARIATE_NORMAL.pdf) - Tony E. Smith
 + [Gumble Distribution](https://github.com/mrahtz/humble-gumbel/blob/master/gumbel.ipynb) - mrahtz 
++ [Expected Improvement Derivation](http://ash-aldujaili.github.io/blog/2018/02/01/ei/) - Al-Dujaili
+
 ### QnA
 + [How to choose prior](https://stats.stackexchange.com/questions/78606/how-to-choose-prior-in-bayesian-parameter-estimation)
 + [Standardizing data for GP Regression](https://stats.stackexchange.com/questions/178245/should-we-standardize-the-data-while-doing-gaussian-process-regression)
