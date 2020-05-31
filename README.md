@@ -47,6 +47,10 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 
 + [Taking the Human Out of the Loop:A Review of Bayesian Optimization](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf) Nando Defreitas . more comprehensive than above
 
+## Bandit Algorithm
+
++ [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html) -Lilian Weng
+
 ## Online Courses
 
 + [Bayesian Method for Machine Learning - National Research University Higher School of Economics](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) (Comprehensive, compact and intuitive course on bayesian method for machine learning, this is good start for getting basic intuition on bayesian methods)
