@@ -1,4 +1,4 @@
-List of paper on Bayesian ML (indexed by year)
+List of paper on Bayesian ML 
 
 ## Graph Gaussian Process and Bayesian Optimization
-[Graph Convolutional Gaussian Processes](https://arxiv.org/pdf/1803.05776.pdf) - Venkitaraman et al
+2018|[Graph Convolutional Gaussian Processes](https://arxiv.org/pdf/1803.05776.pdf) - Venkitaraman et al
