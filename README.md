@@ -17,6 +17,7 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 + [Deep Probabilistic Modelling with with Gaussian Processes](http://inverseprobability.com/talks/notes/deep-probabilistic-modelling-with-gaussian-processes.html) - Neil D. Lawrence
 
++ [Bayesian workflow](https://dpsimpson.github.io/pages/talks/Bayesian_Workflow.pdf) - Gelman et,al.
 + [Neil Lawrence's Talks](http://inverseprobability.com/talks/) - Neil D. Lawrence
 
 ## Bayesian Deep Learning
