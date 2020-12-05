@@ -11,6 +11,8 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 + [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
 
++ [An Introduction to Variational Methodsfor Graphical Models](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf) - Jordan et al
+
 + [Advanced methods of variational inference - Deep Bayes 2018](https://www.youtube.com/watch?v=mCBnid-1slI) - Max Welling
 
 + [Matrix Cook Book](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (many usefull facts on linear algebra and beyond)
