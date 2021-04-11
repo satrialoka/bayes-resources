@@ -70,6 +70,7 @@ more details on [r/machinelearning](https://www.reddit.com/r/MachineLearning/com
 ## Blogs
 + [betanalpha.github.io](https://betanalpha.github.io/writing/) - Michael Betancourt's blog
 + [Notes on machine learning](https://peterroelants.github.io/) - Peter Roelants's blog (have good notes on GP, Multivariate Gaussian and Multi-Armed bandit)
++ [Knowledge Gradient Visualized](https://tiao.io/post/an-illustrated-guide-to-the-knowledge-gradient-acquisition-function/) - Louis Tiao (Nice visualization to understand KG)
 
 ## Notes etc
 + [Optimal Transport and Wassertein Distance](http://www.stat.cmu.edu/~larry/=sml/Opt.pdf) - Larry Wasserman 
