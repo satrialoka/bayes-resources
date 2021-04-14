@@ -7,7 +7,7 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 + [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Richard McElreath | [course](https://github.com/rmcelreath/statrethinking_winter2019) | [numpyro implementation](https://fehiepsi.github.io/rethinking-numpyro/) | (seems good read later)
 
 ## Tutorials and Course Notes
-+ [Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
++ [Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/BML_lecture_notes.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
 
 + [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf) - Blei et al
 
