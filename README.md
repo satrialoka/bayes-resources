@@ -6,6 +6,8 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 + [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Richard McElreath | [course](https://github.com/rmcelreath/statrethinking_winter2019) | [numpyro implementation](https://fehiepsi.github.io/rethinking-numpyro/) | (seems good read later)
 
++ [Surrogates](https://bobby.gramacy.com/surrogates/surrogates.pdf) - Robert B. Gramacy 
+
 ## Tutorials and Course Notes
 + [Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/BML_lecture_notes.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
 
