@@ -8,6 +8,10 @@ Plethora of knowledge (papers, books, videos etc) in my journey to learn bayesia
 
 + [Surrogates](https://bobby.gramacy.com/surrogates/surrogates.pdf) - Robert B. Gramacy 
 
++ [Bayesian Optimization Book](https://bayesoptbook.com/) - Roman Garnett
+
+
+
 ## Tutorials and Course Notes
 + [Course Notes for Bayesian Models for Machine Learning](http://www.columbia.edu/~jwp2128/Teaching/BML_lecture_notes.pdf) (A must read note, the formula derivations are nice) - Columbia University Fall 2016
 
